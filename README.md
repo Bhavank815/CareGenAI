@@ -41,7 +41,7 @@
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CareGenAI.git
+git clone https://github.com/Bhavank815/CareGenAI
 cd CareGenAI
 
 # Install dependencies
